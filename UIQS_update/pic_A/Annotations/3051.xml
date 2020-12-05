@@ -1,0 +1,26 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>3051.jpg</filename>
+  <path>E:\study\lab\sea\RUIE\UIQS\UIQS_new\pic_A\JPEGImages\3051.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>urchin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>281</xmin>
+      <ymin>226</ymin>
+      <xmax>366</xmax>
+      <ymax>282</ymax>
+    </bndbox>
+  </object>
+</annotation>
